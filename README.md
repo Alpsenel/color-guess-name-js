@@ -1,1 +1,1 @@
-A color guess name built with Javascript
+A color guess name built with pure Javascript
